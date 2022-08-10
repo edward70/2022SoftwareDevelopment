@@ -1,0 +1,43 @@
+beaker
+3829
+cool
+
+Test Tube
+1
+Glass Company
+
+Busen Burner
+2
+Heaters R Us
+
+Tripod
+3
+Metallurgy
+
+Metal Tongs
+1
+Metallurgy
+
+Flame thrower
+2
+Heaters R Us
+
+Beaker
+2
+Glass company
+
+Test Tube
+2
+Glass Company
+
+Beaker
+3
+Glass company
+
+Test Tube
+3
+Glass Company
+
+Busen Burner
+1
+Heaters R Us

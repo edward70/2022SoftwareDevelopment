@@ -1,0 +1,39 @@
+Player1
+1
+Full Back
+
+Player2
+5
+Full Forward
+
+Player3
+3
+Centre
+
+Player4
+4
+Centre
+
+Player5
+7
+Full Back
+
+Player6
+2
+Half Back
+
+Player7
+6
+Half Forward
+
+Player8
+8
+Half Forward
+
+Player9
+12
+Full Forward
+
+Player10
+31
+Full Back
